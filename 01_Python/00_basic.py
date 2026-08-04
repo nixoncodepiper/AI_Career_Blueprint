@@ -1,0 +1,5 @@
+print("Hello, World!")
+print("My name is Nixon.")
+print("Welcome to my AI Career Blueprint!")
+print("I am learning Python.")
+print("I will become an AI Engineer.")
